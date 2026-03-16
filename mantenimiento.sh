@@ -7,4 +7,4 @@ echo "Mantenimiento completado"
 cd ~/practica_1
 git add backups
 git commit -m "Nueva copia de seguridad"
-git push
+git push -f origin main
